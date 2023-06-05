@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name = "bin.com.mycompany.passwordmanager.passwordManagerHooks"/>
+    </aspects>
+</aspectj>
